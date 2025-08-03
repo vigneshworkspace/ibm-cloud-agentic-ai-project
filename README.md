@@ -59,4 +59,4 @@ Project guided by **Edunet Foundation** and **IBM SkillsBuild** courses on AI an
 
 Happy travels!
 
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/23692078/044d5353-5ea3-4dc3-bc5f-e9d7738540ad/vigneshwarnagenticaiproject.pdf
+
