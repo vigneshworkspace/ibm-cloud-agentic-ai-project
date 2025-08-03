@@ -1,4 +1,4 @@
-# Travel Planner AI Agent — IBM Capstone Project README
+# Travel Planner AI Agent — IBM Capstone Project 
 
 Welcome to the repository for **Travel Planner AI Agent**, an IBM watsonx–hosted conversational agent that turns complex trip planning into a seamless, personalized experience.
 
