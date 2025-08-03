@@ -41,19 +41,16 @@ Model quality is tracked with:
 * **Human review** scores on usefulness and satisfaction.
 * **Latency & token metrics** exported to Prometheus.
 
-## 🔄 CI/CD & Deployment
-GitHub Actions:
-1. Lint & unit tests
-2. Build Docker image
-3. Push to IBM Cloud Container Registry
-4. Auto-deploy to **watsonx Agent Lab** space via CLI
 
+<img width="2499" height="1377" alt="Screenshot 2025-08-03 150523" src="https://github.com/user-attachments/assets/636a1fc7-091b-4549-9e27-02655ab53705" />
 ## 🗺️ Future Roadmap
 * Group trip coordination (multi-profile preferences)
+
+
 * Budget optimization slider
 * Long-term user memory for repeat travelers
 * Offline PWA interface
-
+<img width="1409" height="916" alt="Screenshot 2025-08-03 152011" src="https://github.com/user-attachments/assets/d1c1e00a-b742-454b-a87a-d1b4efe0d16e" />
 ## 📄 Licensing
 Apache-2.0. See `LICENSE`.
 
